@@ -1,0 +1,3 @@
+void r() {
+    // Decompilation error
+}

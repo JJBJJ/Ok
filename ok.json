@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🤓公众号┃不会唱歌的鱼妖 (关注不迷路)",
+            "name": "🤓公众号",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 0,
